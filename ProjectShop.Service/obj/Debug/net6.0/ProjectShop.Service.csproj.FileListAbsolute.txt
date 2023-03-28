@@ -1,0 +1,17 @@
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Service.deps.json
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Service.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Service.pdb
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Core.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Data.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Data.pdb
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\bin\Debug\net6.0\ProjectShop.Core.pdb
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.AssemblyInfo.cs
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.csproj.CopyComplete
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\refint\ProjectShop.Service.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ProjectShop.Service.pdb
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Service\obj\Debug\net6.0\ref\ProjectShop.Service.dll

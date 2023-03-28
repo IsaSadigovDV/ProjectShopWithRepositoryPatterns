@@ -1,0 +1,12 @@
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\bin\Debug\net6.0\ProjectShop.Core.deps.json
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\bin\Debug\net6.0\ProjectShop.Core.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\bin\Debug\net6.0\ProjectShop.Core.pdb
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.csproj.AssemblyReference.cache
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.AssemblyInfoInputs.cache
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.AssemblyInfo.cs
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.csproj.CoreCompileInputs.cache
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\refint\ProjectShop.Core.dll
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ProjectShop.Core.pdb
+C:\Users\Designer\source\repos\ProjectShop.App\ProjectShop.Core\obj\Debug\net6.0\ref\ProjectShop.Core.dll

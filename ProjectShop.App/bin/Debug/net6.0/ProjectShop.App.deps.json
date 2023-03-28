@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ProjectShop.App/1.0.0": {
+        "dependencies": {
+          "ProjectShop.Service": "1.0.0"
+        },
+        "runtime": {
+          "ProjectShop.App.dll": {}
+        }
+      },
+      "ProjectShop.Core/1.0.0": {
+        "runtime": {
+          "ProjectShop.Core.dll": {}
+        }
+      },
+      "ProjectShop.Data/1.0.0": {
+        "dependencies": {
+          "ProjectShop.Core": "1.0.0"
+        },
+        "runtime": {
+          "ProjectShop.Data.dll": {}
+        }
+      },
+      "ProjectShop.Service/1.0.0": {
+        "dependencies": {
+          "ProjectShop.Data": "1.0.0"
+        },
+        "runtime": {
+          "ProjectShop.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectShop.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectShop.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectShop.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjectShop.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
